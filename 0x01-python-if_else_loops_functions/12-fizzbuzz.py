@@ -12,4 +12,3 @@ def fizzbuzz():
             continue
         else:
             print("{}".format(num), end=" ")
-
