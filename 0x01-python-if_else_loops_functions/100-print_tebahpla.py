@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-for alpha in range(122, 96, -1):
-        if alpha % 2 == 0:
-                print("{}".format(chr(alpha)), end="")
+for aphla in range(122, 96, -1):
+        if aphla % 2 == 0:
+                print("{}".format(chr(aphla)), end="")
         else:
-                print("{}".format(chr((alpha) - 32)), end="")
+                print("{}".format(chr((aphla) - 32)) ,end="")
